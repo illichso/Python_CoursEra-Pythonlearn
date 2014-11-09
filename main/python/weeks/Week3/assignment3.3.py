@@ -1,3 +1,4 @@
+__author__ = 'Serg'
 from pip.backwardcompat import raw_input
 
 scoreText = raw_input("Enter score\n")

@@ -1,3 +1,4 @@
+__author__ = 'Serg'
 from pip.backwardcompat import raw_input
 
 __author__ = 'Sergii'
