@@ -5,7 +5,7 @@ __author__ = 'Sergii'
 # and print the contents of the file in upper case.
 # Use the file words.txt to produce the output below.
 # You can download the sample data at http://www.pythonlearn.com/code/words.txt
-fileName = raw_input("Enter file name: ")
+fileName = raw_input("Enter file name: ").strip()
 try:
     fileName = open(fileName)
 except:

@@ -32,4 +32,3 @@ for line in fileName:
     lineCount += 1
 averageSpam = sumSpam / lineCount
 print("Average spam confidence:", averageSpam)
-print("Average spam confidence:", 0.750718518519)
